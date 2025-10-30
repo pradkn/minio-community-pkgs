@@ -21,7 +21,7 @@ These packages are provided as an **aggregation** of the original binary and pac
 
 We encourage users to verify the integrity of all packages.
 *   **Source Code**: All binaries are built directly from the official MinIO source code at [github.com/minio/minio](https://github.com/minio/minio).
-*   **Build Scripts**: The build process is documented and transparent.
+
 
 ---
 
